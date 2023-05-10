@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/_iamhp" target="blank"><img src="https://img.shields.io/twitter/follow/_iamhp?logo=twitter&style=for-the-badge" alt="_iamhp" /></a> </p>
 
-- 🔭 I’m currently working on **ecommerce site.**
-
-- 🌱 I’m currently learning **react native.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/hp977](https://github.com/hp977)
 
 - 💬 Ask me about **react, node.js and web development in general.**
